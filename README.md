@@ -2,7 +2,7 @@ Neste exercício foi criada uma página html visualmente simples.
 
 # Page:
 
-https://daianabaltokoski.github.io/receitas-favoritas/
+https://daianabaltokoski.github.io/receita-favorita/
 
 # Tópicos trabalhados:
 
@@ -11,12 +11,12 @@ https://daianabaltokoski.github.io/receitas-favoritas/
 - Função Construtora;
 - Módulo;
 - Classes;
-- Classes e, TypeScript
+- Classes e TypeScript
 
 # Observações:
 
 Inicialmente o exercício visava imprimir no console as informações (título, rendimento e ingredientes) de uma receita já adicionada como padrão. 
-Feito isso, conforme pode ser visto nos comits, criei também uma página para mostrar essas informações de forma estilizada e assim praticar html, css e bootstrap.
+Feito isso, criei também uma página para mostrar essas informações de forma estilizada e assim praticar html, css e bootstrap.
 
 # Vídeo-aulas:
 
